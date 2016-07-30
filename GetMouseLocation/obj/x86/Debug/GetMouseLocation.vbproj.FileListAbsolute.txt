@@ -1,0 +1,22 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\GetMouseLocation\bin\Debug\GetMouseLocation.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\GetMouseLocation\bin\Debug\GetMouseLocation.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\GetMouseLocation\bin\Debug\GetMouseLocation.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\GetMouseLocation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\GetMouseLocation\obj\x86\Debug\GetMouseLocation.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\GetMouseLocation\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\GetMouseLocation\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\GetMouseLocation\obj\x86\Debug\GetMouseLocation.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\GetMouseLocation\obj\x86\Debug\GetMouseLocation.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\GetMouseLocation\obj\x86\Debug\GetMouseLocation.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\GetMouseLocation\obj\x86\Debug\GetMouseLocation.GetWindowLocation.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\GetMouseLocation\GetMouseLocation\obj\x86\Debug\GetMouseLocation.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\GetMouseLocation\GetMouseLocation\obj\x86\Debug\GetMouseLocation.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\GetMouseLocation\GetMouseLocation\obj\x86\Debug\GetMouseLocation.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\GetMouseLocation\GetMouseLocation\bin\Debug\GetMouseLocation.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\GetMouseLocation\GetMouseLocation\bin\Debug\GetMouseLocation.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\GetMouseLocation\GetMouseLocation\bin\Debug\GetMouseLocation.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\GetMouseLocation\GetMouseLocation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\GetMouseLocation\GetMouseLocation\obj\x86\Debug\GetMouseLocation.GetWindowLocation.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\GetMouseLocation\GetMouseLocation\obj\x86\Debug\GetMouseLocation.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\GetMouseLocation\GetMouseLocation\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\GetMouseLocation\GetMouseLocation\obj\x86\Debug\ResGen.write.1.tlog
